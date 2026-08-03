@@ -1,5 +1,5 @@
 #DEE Music Player
-Overview
+##Overview
 
 A custom ESP32 based portable music player capable of
 
@@ -12,7 +12,7 @@ Battery Monitoring
 USB-C Charging
 Future OTA Updates
 
-#Hardware
+###Hardware
 ESP32 Dev Board
 MAX98357A I2S Amplifier
 3W Speaker
@@ -22,7 +22,7 @@ SD Card Module
 Li-ion Battery
 TP4056 Charging Module
 
-#Features
+###Features
 SD Card Playback
 WiFi Streaming
 Bluetooth Speaker
@@ -32,7 +32,7 @@ Playlist Support
 Album Art (Future)
 Equalizer (Future)
 
-#Future Plans
+###Future Plans
 Spotify Connect
 OTA Firmware Updates
 Touch Screen
